@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Zulfan Najib</h1>
-<h3 align="center">A passionate react developer from Indonesia</h3>
+<h3 align="center">Crafting React Magic🪄</h3>
 
 - 🌱 I’m currently learning **React JS, React Native, Android Native, Express JS**
 
