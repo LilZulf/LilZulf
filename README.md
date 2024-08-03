@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **najibzulfan@gmail.com**
 
-- ⚡ Fun fact **I love playing mario kart 8**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/zlfnxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zlfnxn" height="30" width="40" /></a>
